@@ -1,5 +1,5 @@
 FROM alpine:latest
-MAINTAINER "Evan Hazlett <ejhazlett@gmail.com>"
+MAINTAINER "Jesse White <jesse@contino.io>"
 COPY docker-demo /bin/docker-demo
 COPY static /static
 COPY templates /templates
